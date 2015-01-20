@@ -1,0 +1,38 @@
+/* Enter your custom CSS here */
+
+body{
+	font-family:Verdana, sans-serif;
+    margin-top:30px;
+}
+
+h1.title{
+	color:#666666;
+	padding-bottom:20px;
+	font-size:48px;
+}
+
+h2.subtitle{
+	color:#F07C17;
+	font-weight:bold;
+	font-size:24px;
+	padding-bottom:15px;
+	margin-top:0px;
+}
+
+p.paragraph{
+	font-size:16px;
+	color:#666666;
+	line-height:32px;
+}
+
+.features{
+	border:1px #CCCCCC solid;
+	padding:30px;
+	margin-top:26px;
+}
+
+.features li{
+	color:#666666;
+	line-height:28px;
+    line-height:32px;
+}
